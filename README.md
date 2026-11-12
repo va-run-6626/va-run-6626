@@ -96,18 +96,10 @@ public class Varun {
 
 <img src="./assets/acta.svg" width="100%" alt="IV · ACTA DIURNA — the daily record" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=va-run-6626&background=0A0A0A&border=262626&stroke=3A3A3A&ring=E5E5E5&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=D4D4D4&currStreakLabel=E5E5E5&sideLabels=8A8A8A&dates=5C5C5C&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=va-run-6626&bg_color=0A0A0A&color=8A8A8A&title_color=E5E5E5&line=E5E5E5&point=FFFFFF&area=true&area_color=3A3A3A&hide_border=true&radius=10&custom_title=Contributions" alt="Activity graph" />
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/va-run-6626/va-run-6626/output/legionary-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/va-run-6626/va-run-6626/output/legionary.svg" />
-  <img alt="A legionary helmet marching through the contribution grid" src="https://raw.githubusercontent.com/va-run-6626/va-run-6626/output/legionary-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/va-run-6626/va-run-6626/output/acta-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/va-run-6626/va-run-6626/output/acta.svg" />
+  <img alt="Contributions, current streak, longest streak and the last twelve weeks of activity" src="https://raw.githubusercontent.com/va-run-6626/va-run-6626/output/acta-dark.svg" width="100%" />
 </picture>
 
 <img src="./assets/meditationes.svg" width="100%" alt="V · MEDITATIONES — words to work by" />
